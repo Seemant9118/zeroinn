@@ -22,8 +22,7 @@ export default function Footer() {
                 <h1 className="lg:text-4xl md:text-2xl sm:text-xl text-lg font-bold">Zeroin</h1>
                 <div id="caption" className=" w-full text-gray-500">Enhance your business with cutting-edge technology and unparalleled expertise.</div>
                 <div className="w-full text-slate-500 ">
-                    © 2024, TechCom.<br />
-                    Design and Developed by <span className="text-primary">Techpix - sk </span>
+                    ©  2024, Zeroin.<br />
                 </div>
             </div>
 
